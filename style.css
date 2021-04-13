@@ -27,7 +27,7 @@ a {
 }
 
 a:hover {
-  color: #004096;
+  color: #004097;
 }
 
 a[target="_blank"]::after {
@@ -323,7 +323,7 @@ h3 {
 }
 
 .headerItemMessageNaviItemTitle {
-  background: #004096;
+  background: #004097;
   border-radius: 15px 15px 0 0;
   font-size: 1.375rem;
   color: #fff;
@@ -479,8 +479,8 @@ h3 {
   display: -ms-flexbox;
   display: flex;
   height: 60px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#004096), to(#002F7B));
-  background: linear-gradient(#004096, #002F7B);
+  background: -webkit-gradient(linear, left top, left bottom, from(#004097), to(#002F7B));
+  background: linear-gradient(#004097, #002F7B);
   color: #FFF;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
@@ -570,7 +570,7 @@ h3 {
 }
 
 .headerMenu .headerMenuLink ul li a:hover {
-  color: #004096;
+  color: #004097;
 }
 
 .headerMenu ul.floatLink {
@@ -628,11 +628,11 @@ h3 {
 }
 
 .headerMenu ul.floatLink .is-show .floatLinkText {
-  color: #004096;
+  color: #004097;
 }
 
 .headerMenu ul.floatLink .is-show .floatLinkDot {
-  background: #004096;
+  background: #004097;
 }
 
 #contact .headerMenu ul.floatLink,
@@ -659,7 +659,7 @@ h3 {
 .headerMenuPhoneImg svg {
   width: 100%;
   height: 100%;
-  fill: #004096;
+  fill: #004097;
 }
 
 .headerMenuPhoneNumber {
@@ -686,7 +686,7 @@ h3 {
   display: -ms-flexbox;
   display: flex;
   color: #FFF;
-  background: #004096;
+  background: #004097;
   font-size: 1rem;
   font-weight: 500;
   -webkit-box-align: center;
@@ -881,7 +881,7 @@ h3 {
   font-weight: 600;
   padding-bottom: 1.5rem;
   margin-bottom: 1.75rem;
-  color: #004096;
+  color: #004097;
   position: relative;
 }
 
@@ -893,7 +893,7 @@ h3 {
   width: 30px;
   height: 1px;
   margin-right: .5rem;
-  background-color: #004096;
+  background-color: #004097;
   display: inline-block;
   vertical-align: middle;
   display: none;
@@ -905,7 +905,7 @@ h3 {
   bottom: 0;
   position: absolute;
   height: 1px;
-  background-color: #004096;
+  background-color: #004097;
   left: 0;
 }
 
@@ -921,7 +921,7 @@ h3 {
 }
 
 .troubleImgWrap .troubleContentsTopText p.topcatchContentsTopSummary, .troubleImgWrap .topcatchContentsTopText p.topcatchContentsTopSummary, .topcatchImgWrap .troubleContentsTopText p.topcatchContentsTopSummary, .topcatchImgWrap .topcatchContentsTopText p.topcatchContentsTopSummary {
-  color: #004096;
+  color: #004097;
   font-weight: 700;
   margin-bottom: 1.75rem;
 }
@@ -997,7 +997,7 @@ h3 {
 
 .consultation.full {
   width: 100%;
-  background-color: #004096;
+  background-color: #004097;
   color: #FFF;
 }
 
@@ -1070,7 +1070,7 @@ h3 {
 }
 
 .threePoints h3 span {
-  color: #004096;
+  color: #004097;
   font-size: 3.75rem;
 }
 
@@ -1117,7 +1117,7 @@ h3 {
   font-size: 8rem;
   font-style: normal;
   line-height: 1;
-  color: #004096;
+  color: #004097;
   opacity: .5;
   z-index: 2;
 }
@@ -1220,9 +1220,9 @@ h3 {
   width: 400px;
   height: 70px;
   margin: 0 auto;
-  border: 2px solid #004096;
+  border: 2px solid #004097;
   border-radius: 40px;
-  color: #004096;
+  color: #004097;
   font-size: 1.5rem;
   font-weight: 800;
   display: -webkit-box;
@@ -1318,7 +1318,7 @@ h3 {
   width: 100%;
   height: 100%;
   padding: 40px 0;
-  background-color: rgba(0, 64, 150, 0.2);
+  background-color: rgba(0, 64, 151, 0.2);
 }
 
 .flowStep h3 {
@@ -1334,7 +1334,7 @@ h3 {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  border: 2px solid #004096;
+  border: 2px solid #004097;
   border-radius: 14px;
 }
 
@@ -1343,7 +1343,7 @@ h3 {
 }
 
 .flowStepWrap .flowStepContents:not(:last-child) .flowStepContentsItem {
-  border-right: 2px solid #004096;
+  border-right: 2px solid #004097;
 }
 
 .flowStepWrap .flowStepContents:first-child .flowStepContentsItem {
@@ -1367,7 +1367,7 @@ h3 {
 }
 
 .flowStepContentsTitle {
-  background-color: #004096;
+  background-color: #004097;
   color: #FFF;
   font-size: 1.875rem;
 }
@@ -1401,7 +1401,7 @@ h3 {
   width: 400px;
   height: 70px;
   margin: 60px auto 40px;
-  background-color: #004096;
+  background-color: #004097;
   border-radius: 10px;
   color: #FFF;
   font-size: 1.5rem;
@@ -1424,7 +1424,7 @@ h3 {
   height: 0;
   border-style: solid;
   border-width: 20px 10px 0;
-  border-color: #004096 transparent transparent transparent;
+  border-color: #004097 transparent transparent transparent;
   position: absolute;
   bottom: -15px;
   left: 0;
@@ -1455,9 +1455,9 @@ h3 {
   height: 70px;
   margin: 0 auto;
   background-color: #FFF;
-  border: 2px solid #004096;
+  border: 2px solid #004097;
   border-radius: 40px;
-  color: #004096;
+  color: #004097;
   font-size: 1.5rem;
   font-weight: 800;
   display: -webkit-box;
@@ -1480,7 +1480,7 @@ h3 {
 }
 
 .topLeasebackBoxWrap {
-  background-color: #004096;
+  background-color: #004097;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1763,7 +1763,7 @@ h3 {
 
 .voluntarySalePopupW .voluntarySalePopupWTitle .voluntarySalePopupWPoint {
   font-weight: 700;
-  color: #004096;
+  color: #004097;
 }
 
 .voluntarySaleText {
@@ -1789,9 +1789,9 @@ h3 {
   margin: 0 auto 30px;
   padding: 15px;
   position: relative;
-  border-top: 1px solid #004096;
-  border-bottom: 1px solid #004096;
-  color: #004096;
+  border-top: 1px solid #004097;
+  border-bottom: 1px solid #004097;
+  color: #004097;
   font-size: 1.875rem;
   font-weight: 700;
   text-align: center;
@@ -1824,7 +1824,7 @@ h3 {
 
 .voluntarySaleThreeMerit h3 span {
   font-size: 3.125rem;
-  color: #004096;
+  color: #004097;
 }
 
 .voluntarySaleThreeMeritWrap {
@@ -1856,7 +1856,7 @@ h3 {
   width: 20%;
   font-size: 5rem;
   font-style: italic;
-  color: #004096;
+  color: #004097;
   line-height: 1;
 }
 
@@ -1877,9 +1877,9 @@ h3 {
   width: 400px;
   height: 70px;
   margin: 0 auto;
-  border: 2px solid #004096;
+  border: 2px solid #004097;
   border-radius: 40px;
-  color: #004096;
+  color: #004097;
   font-size: 1.5rem;
   font-weight: 800;
   display: -webkit-box;
@@ -1917,7 +1917,7 @@ h3 {
   padding: .75rem;
   margin: 0 auto 1.25rem;
   color: #FFF;
-  background-color: #004096;
+  background-color: #004097;
   text-align: center;
   font-size: 1.25rem;
   font-weight: 600;
@@ -1954,9 +1954,9 @@ h3 {
 
 @media (max-width: 767px) {
   .brokerBox h3 {
-    border: 3px solid #004096;
+    border: 3px solid #004097;
     background: #fff;
-    color: #004096;
+    color: #004097;
   }
 }
 
@@ -2002,7 +2002,7 @@ h3 {
 }
 
 .companyAboutList ul:last-child li:first-child {
-  border-bottom: 3px solid #004096;
+  border-bottom: 3px solid #004097;
 }
 
 .companyAboutList ul:last-child li:last-child {
@@ -2014,7 +2014,7 @@ h3 {
   padding: 1rem 1.875rem;
   font-size: 1.125rem;
   font-weight: 600;
-  border-top: 3px solid #004096;
+  border-top: 3px solid #004097;
 }
 
 .companyAboutList li:last-child {
@@ -2099,7 +2099,7 @@ h3 {
 
 .footer {
   height: 140px;
-  background-color: #004096;
+  background-color: #004097;
   color: #fff;
 }
 
@@ -2267,7 +2267,7 @@ h1.pageTitle {
   margin-left: 1rem;
   padding: 0 .75rem;
   color: #FFF;
-  background-color: #004096;
+  background-color: #004097;
   border-radius: 26px;
 }
 
@@ -2374,7 +2374,7 @@ h1.pageTitle {
 .btnCover #content_fix_button {
   width: 100%;
   height: 100%;
-  background-color: #004096;
+  background-color: #004097;
   color: #FFF;
   font-size: .875rem;
   font-weight: 600;
@@ -2404,7 +2404,7 @@ h1.pageTitle {
 .confirmListTitle {
   width: 240px;
   padding: 60px 0 1rem;
-  border-bottom: 2px solid #004096;
+  border-bottom: 2px solid #004097;
   display: block;
   font-weight: 600;
 }
@@ -2519,7 +2519,7 @@ h4.ItemTitle::before {
   bottom: 0;
   width: 780px;
   height: 2px;
-  background: #004096;
+  background: #004097;
 }
 
 @media (max-width: 1024px) {
@@ -2647,7 +2647,7 @@ input[type=checkbox] {
   content: "check_box_outline_blank";
   font-size: 21px;
   vertical-align: middle;
-  color: #004096;
+  color: #004097;
 }
 
 .inputListContentWrap .checkbox_label.checked {
@@ -2670,7 +2670,7 @@ input[type=checkbox] {
   content: "radio_button_unchecked";
   font-size: 21px;
   vertical-align: middle;
-  color: #004096;
+  color: #004097;
 }
 
 .inputListContent #radiobtn.checked {
@@ -3162,7 +3162,7 @@ input[type=checkbox] {
   }
   .flowStepWrap .flowStepContents:not(:last-child) .flowStepContentsItem {
     border-right: none;
-    border-bottom: 2px solid #004096;
+    border-bottom: 2px solid #004097;
   }
   .flowStepWrap .flowStepContents:first-child .flowStepContentsItem {
     border-bottom-left-radius: 0;
@@ -3295,7 +3295,7 @@ input[type=checkbox] {
     border-bottom: none;
   }
   .companyAboutList ul:last-child li:last-child {
-    border-bottom: 3px solid #004096;
+    border-bottom: 3px solid #004097;
   }
   .companyAboutList li:first-child {
     width: 100%;
@@ -3406,7 +3406,7 @@ input[type=checkbox] {
   }
   .confirmList .connectTop .confirmListTitle {
     padding-bottom: 1rem;
-    border-bottom: 2px solid #004096;
+    border-bottom: 2px solid #004097;
   }
   .confirmList .connectTop .confirmListContent {
     padding: 1rem 0 2rem;
@@ -3474,10 +3474,10 @@ input[type=checkbox] {
   background: #fff;
   padding: 14px 80px 16px;
   border-radius: 40px;
-  color: #004096;
+  color: #004097;
   font-size: 18px;
   font-weight: 600;
-  border: 2px solid #004096;
+  border: 2px solid #004097;
   -webkit-transition: all .5s;
   transition: all .5s;
   position: relative;
@@ -3508,18 +3508,18 @@ input[type=checkbox] {
 }
 
 .sell .moreLinkWrap .moreLink:hover {
-  background: #004096;
+  background: #004097;
   color: #fff;
 }
 
 .sell .moreLinkWrap .moreLink.turncolor {
-  background: #004096;
+  background: #004097;
   color: #fff;
 }
 
 .sell .moreLinkWrap .moreLink.turncolor:hover {
   background: #fff;
-  color: #004096;
+  color: #004097;
 }
 
 .sell .sectionBox.system {
@@ -3545,7 +3545,7 @@ input[type=checkbox] {
 }
 
 .sell .startForm .startFormItem {
-  background: #004096;
+  background: #004097;
   color: #fff;
   padding: 40px;
   position: relative;
@@ -3567,7 +3567,7 @@ input[type=checkbox] {
   margin: auto;
   width: 0;
   height: 0;
-  border-color: #004096 transparent transparent;
+  border-color: #004097 transparent transparent;
   border-style: solid;
   border-width: 20px 18px 0px 18px;
 }
@@ -3906,14 +3906,14 @@ input[type=checkbox] {
 .troubleItem .troubleContents::before {
   font-family: 'Material Icons';
   content: "done_outline";
-  color: #004096;
+  color: #004097;
   font-size: 26px;
   position: absolute;
   left: 0;
 }
 
 .troubleItem .troubleContents span {
-  color: #004096;
+  color: #004097;
   font-weight: 600;
 }
 
@@ -4086,7 +4086,7 @@ input[type=checkbox] {
 .point .pointHeader span {
   font-size: 22px;
   display: block;
-  color: #004096;
+  color: #004097;
   margin-bottom: 8px;
 }
 
@@ -4195,7 +4195,7 @@ input[type=checkbox] {
 
 .flowItemWrap .flowItem:first-child .flowStep {
   border-radius: 8px 0 0 0;
-  border-left: 2px solid #004096;
+  border-left: 2px solid #004097;
 }
 
 @media (max-width: 767px) {
@@ -4207,7 +4207,7 @@ input[type=checkbox] {
 
 .flowItemWrap .flowItem:first-child .flowSubItem {
   border-radius: 0 0 0 8px;
-  border-left: 2px solid #004096;
+  border-left: 2px solid #004097;
 }
 
 @media (max-width: 767px) {
@@ -4220,13 +4220,13 @@ input[type=checkbox] {
 
 .flowItemWrap .flowItem:last-child .flowStep {
   border-radius: 0 8px 0 0;
-  border-right-color: #004096;
+  border-right-color: #004097;
 }
 
 @media (max-width: 767px) {
   .flowItemWrap .flowItem:last-child .flowStep {
     border-radius: 0 0 0 15px;
-    border-bottom: 2px solid #004096;
+    border-bottom: 2px solid #004097;
   }
 }
 
@@ -4245,11 +4245,11 @@ input[type=checkbox] {
 }
 
 .flowItemWrap .flowStep {
-  background: #004096;
+  background: #004097;
   text-align: center;
   color: #fff;
   font-weight: 600;
-  border-right: 2px solid #004096;
+  border-right: 2px solid #004097;
   border-right-color: #fff;
   line-height: 1.8em;
   font-size: 20px;
@@ -4280,8 +4280,8 @@ input[type=checkbox] {
 }
 
 .flowItemWrap .flowSubItem {
-  border-right: 2px solid #004096;
-  border-bottom: 2px solid #004096;
+  border-right: 2px solid #004097;
+  border-bottom: 2px solid #004097;
   background: #fff;
 }
 
@@ -4399,15 +4399,15 @@ input[type=checkbox] {
 }
 
 .comparisonItemTitle {
-  background: #004096;
+  background: #004097;
   text-align: center;
   padding: 2px 5px 5px 5px;
   font-size: 22px;
   font-weight: 600;
   color: #fff;
-  border-top: 3px solid #004096;
-  border-left: 3px solid #004096;
-  border-right: 3px solid #004096;
+  border-top: 3px solid #004097;
+  border-left: 3px solid #004097;
+  border-right: 3px solid #004097;
   border-radius: 15px 15px 0 0;
 }
 
@@ -4423,8 +4423,8 @@ input[type=checkbox] {
 .meritBox {
   padding: 14px 20px 20px 20px;
   background: #EEF5FF;
-  border-left: 3px solid #004096;
-  border-right: 3px solid #004096;
+  border-left: 3px solid #004097;
+  border-right: 3px solid #004097;
 }
 
 .mediation .meritBox {
@@ -4445,7 +4445,7 @@ input[type=checkbox] {
 .meritBox .meritHeader::before {
   font-family: 'Material Icons';
   content: "check_circle";
-  color: #004096;
+  color: #004097;
   vertical-align: top;
   margin-right: 5px;
 }
@@ -4469,7 +4469,7 @@ input[type=checkbox] {
 .meritBox ul li::before {
   font-family: 'Material Icons';
   content: "east";
-  color: #004096;
+  color: #004097;
   vertical-align: top;
   margin-right: 5px;
   display: inline-block;
@@ -4492,8 +4492,8 @@ input[type=checkbox] {
 
 .demeritBox {
   padding: 14px 20px 20px 20px;
-  border-left: 3px solid #004096;
-  border-right: 3px solid #004096;
+  border-left: 3px solid #004097;
+  border-right: 3px solid #004097;
 }
 
 .mediation .demeritBox {
@@ -4559,9 +4559,9 @@ input[type=checkbox] {
   padding: 14px 20px 20px 20px;
   background: #EEF5FF;
   border-radius: 0 0 8px 8px;
-  border-left: 3px solid #004096;
-  border-right: 3px solid #004096;
-  border-bottom: 3px solid #004096;
+  border-left: 3px solid #004097;
+  border-right: 3px solid #004097;
+  border-bottom: 3px solid #004097;
   border-radius: 0 0 15px 15px;
 }
 
@@ -4580,7 +4580,7 @@ input[type=checkbox] {
 
 .purchase .comparisonDetailBox table td {
   font-weight: 600;
-  color: #004096;
+  color: #004097;
 }
 
 .comparisonLinkButton {
@@ -4600,10 +4600,10 @@ input[type=checkbox] {
   margin: 0 auto;
   padding: 1rem 0;
   display: block;
-  border: 2px solid #004096;
+  border: 2px solid #004097;
   border-radius: 40px;
   text-align: center;
-  color: #004096;
+  color: #004097;
   font-size: 1.125rem;
   font-weight: 600;
   -webkit-transition: all .5s;
@@ -4611,7 +4611,7 @@ input[type=checkbox] {
 }
 
 .comparisonLinkButton a:hover {
-  background-color: #004096;
+  background-color: #004097;
   color: #FFF;
 }
 
@@ -4620,9 +4620,9 @@ input[type=checkbox] {
     display: inline-block;
     background: #fff;
     border-radius: 40px;
-    color: #004096;
+    color: #004097;
     font-weight: 600;
-    border: 2px solid #004096;
+    border: 2px solid #004097;
     -webkit-transition: all .5s;
     transition: all .5s;
     position: relative;
@@ -4640,7 +4640,7 @@ input[type=checkbox] {
     right: 1em;
   }
   .comparisonLinkButton a:hover {
-    background: #004096;
+    background: #004097;
     color: #fff;
   }
 }
@@ -4654,7 +4654,7 @@ input[type=checkbox] {
         padding: 10% 5%;
     }*/
   padding: 20px 20px 28px;
-  border: 2px solid #004096;
+  border: 2px solid #004097;
   border-radius: 15px;
   text-align: right;
   font-size: 13px;
@@ -4696,7 +4696,7 @@ input[type=checkbox] {
 }
 
 .howLeaseBack span {
-  color: #004096;
+  color: #004097;
   display: block;
   font-size: 18px;
   font-weight: 600;
@@ -4808,7 +4808,7 @@ input[type=checkbox] {
 
 .faqItemWrap .faqItem .question {
   font-weight: 600;
-  color: #004096;
+  color: #004097;
   padding-left: 2em;
   position: relative;
   margin-bottom: 1em;
@@ -4821,7 +4821,7 @@ input[type=checkbox] {
   /* line-height: 2em; */
   text-align: center;
   border-radius: 1em;
-  background: #004096;
+  background: #004097;
   color: #fff;
   font-weight: 600;
   position: absolute;
@@ -4903,7 +4903,7 @@ input[type=checkbox] {
 }
 
 .voiceItemHeader {
-  background: #004096;
+  background: #004097;
   padding: 5px 10px 5px 25px;
   color: #fff;
   border-radius: 24px;
@@ -4954,7 +4954,7 @@ input[type=checkbox] {
 .voiceItemHeader .voiceKind {
   font-weight: 600;
   background: #fff;
-  color: #004096;
+  color: #004097;
   font-size: 12px;
   line-height: 1em;
   padding: 3px;
@@ -5121,7 +5121,7 @@ input[type=checkbox] {
             transform: translate(100%, -50%);
   }
   .headerMenuGlobalWrap .headerGlobalMenu li a::before {
-    border-color: transparent transparent transparent #004096;
+    border-color: transparent transparent transparent #004097;
     right: 31px;
   }
 }
@@ -5270,7 +5270,7 @@ input[type=checkbox] {
 }
 
 .telLinkSection {
-  color: #004096;
+  color: #004097;
   font-weight: 400;
   font-size: .8em;
 }
@@ -5410,7 +5410,7 @@ input[type=checkbox] {
 }
 
 .formStep2Wrap .formSectionHeader {
-  color: #004096;
+  color: #004097;
   font-weight: 600;
   font-size: 30px;
   position: relative;
@@ -5428,7 +5428,7 @@ input[type=checkbox] {
   position: absolute;
   width: 100%;
   height: 2px;
-  background: #004096;
+  background: #004097;
   margin: auto;
   top: 0;
   bottom: 0;
@@ -5723,7 +5723,7 @@ input[type=checkbox] {
   margin-top: -.23em;
   top: 50%;
   left: .15em;
-  background: #004096;
+  background: #004097;
   border-radius: 1em;
 }
 
@@ -5929,7 +5929,7 @@ input[type=checkbox] {
 }
 
 .formStep2Wrap .inputListTitle .must.ok, .formStep2Wrap .inputListTitle .any.ok, .formStep2Wrap .confirmListTitle .must.ok, .formStep2Wrap .confirmListTitle .any.ok, .formStep2Wrap .notInputListTitle .must.ok, .formStep2Wrap .notInputListTitle .any.ok {
-  background: #004096;
+  background: #004097;
   color: #FFF;
 }
 
@@ -5960,7 +5960,7 @@ input[type=checkbox] {
 }
 
 .formStep2Wrap .confirmList li {
-  border-bottom: 1px solid #004096;
+  border-bottom: 1px solid #004097;
 }
 
 .formStep2Wrap .acceptPolicy {
@@ -6054,7 +6054,7 @@ input[type=checkbox] {
 .formStep2Wrap .btnCover .formBtn {
   position: relative;
   display: inline-block;
-  background: #004096;
+  background: #004097;
   color: #fff;
   padding: 10px 70px;
   font-weight: 600;
@@ -6219,7 +6219,7 @@ input[type=checkbox] {
   margin-bottom: 1.25rem;
   font-size: 1.75rem;
   font-weight: 600;
-  background-color: #004096;
+  background-color: #004097;
   color: #FFF;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -6243,7 +6243,7 @@ input[type=checkbox] {
 .topNowBox .topNowBoxTextCheckmark li::before {
   font-family: 'Material Icons';
   content: "done_outline";
-  color: #004096;
+  color: #004097;
   font-size: 1.625rem;
   position: absolute;
   left: 0;
@@ -6302,7 +6302,7 @@ input[type=checkbox] {
 }
 
 .contentLeft .topVoluntarysaleMeritPopup {
-  background-color: #004096;
+  background-color: #004097;
 }
 
 .contentRight .topVoluntarysaleMeritPopup {
@@ -6310,7 +6310,7 @@ input[type=checkbox] {
 }
 
 .contentLeft .topVoluntarysaleMeritPopup::after {
-  border-color: #004096 transparent transparent transparent;
+  border-color: #004097 transparent transparent transparent;
 }
 
 .contentRight .topVoluntarysaleMeritPopup::after {
@@ -6375,7 +6375,7 @@ input[type=checkbox] {
   border-bottom-right-radius: 14px;
   border-bottom-width: 3px;
   border-bottom-style: solid;
-  border-bottom-color: #004096;
+  border-bottom-color: #004097;
   background-color: #FFF;
 }
 
@@ -6550,9 +6550,9 @@ input[type=checkbox] {
 .voluntarysaleComparisonTable .tableHeaderTitle.two {
   width: 300px;
   background: #EEF5FF;
-  border-top: 3px solid #004096;
-  border-left: 3px solid #004096;
-  border-right: 3px solid #004096;
+  border-top: 3px solid #004097;
+  border-left: 3px solid #004097;
+  border-right: 3px solid #004097;
 }
 
 .voluntarysaleComparisonTable .tableHeaderTitle.three {
@@ -6582,7 +6582,7 @@ input[type=checkbox] {
 }
 
 .voluntarysaleComparisonTable .tableContents.end .tableContentsDetailLeft {
-  border-bottom: 3px solid #004096;
+  border-bottom: 3px solid #004097;
 }
 
 @media (max-width: 767px) {
@@ -6658,8 +6658,8 @@ input[type=checkbox] {
 .voluntarysaleComparisonTable .tableContentsDetailLeft {
   width: 300px;
   padding: 15px;
-  border-left: 3px solid #004096;
-  border-right: 3px solid #004096;
+  border-left: 3px solid #004097;
+  border-right: 3px solid #004097;
   border-bottom: 1px solid #DEDEDE;
   font-size: 1.1rem;
   font-weight: 700;
@@ -6772,7 +6772,7 @@ input[type=checkbox] {
 }
 
 .voluntarysaleTimeTable .tableContentsWrap.bluewaku {
-  border: 3px solid #004096;
+  border: 3px solid #004097;
 }
 
 @media (max-width: 767px) {
@@ -6789,7 +6789,7 @@ input[type=checkbox] {
 }
 
 .voluntarysaleTimeTable .tableContents.end .tableContentsDetailLeft {
-  border-bottom: 3px solid #004096;
+  border-bottom: 3px solid #004097;
 }
 
 .voluntarysaleTimeTable .sptitle {
@@ -6918,7 +6918,7 @@ input[type=checkbox] {
 .voluntarysaleTimeTable .bluewaku .selltime {
   background: #EEF5FF;
   font-size: 1.25rem;
-  color: #004096;
+  color: #004097;
 }
 
 .voluntarysaleTimeTable .tableContentsDetailRight {
@@ -6954,7 +6954,7 @@ input[type=checkbox] {
   font-size: 1.75rem;
   font-weight: 700;
   text-align: center;
-  background: #004096;
+  background: #004097;
   color: #fff;
   margin-bottom: 20px;
   padding-bottom: 3px;
@@ -7223,7 +7223,7 @@ input[type=checkbox] {
   vertical-align: middle;
   font-size: 2rem;
   line-height: 1;
-  color: #004096;
+  color: #004097;
 }
 
 .contactVoluntarysaleTime {
@@ -7278,7 +7278,7 @@ body.leaseback .sectionBox {
 .aboutLeaseback .aboutLeasebackItemTopText p::before {
   font-family: 'Material Icons';
   content: "done_outline";
-  color: #004096;
+  color: #004097;
   font-size: 1.5625rem;
   position: absolute;
   left: 0;
@@ -7315,7 +7315,7 @@ body.leaseback .sectionBox {
   height: 0;
   border-style: solid;
   border-width: 80px 185px 0 185px;
-  border-color: #004096 transparent transparent transparent;
+  border-color: #004097 transparent transparent transparent;
 }
 
 .aboutLeaseback .aboutLeasebackTriangle p {
@@ -7342,7 +7342,7 @@ body.leaseback .sectionBox {
 }
 
 .aboutLeasebackafter .aboutLeasebackItemBottomTextTop {
-  color: #004096;
+  color: #004097;
   font-size: 2.375rem;
   font-size: 2.75rem;
   font-weight: 600;
@@ -7355,7 +7355,7 @@ body.leaseback .sectionBox {
   display: inline-block;
   margin-left: .75rem;
   margin-right: .5rem;
-  background-color: #004096;
+  background-color: #004097;
   vertical-align: middle;
 }
 
@@ -7365,12 +7365,12 @@ body.leaseback .sectionBox {
   height: 1px;
   display: inline-block;
   margin-left: .5rem;
-  background-color: #004096;
+  background-color: #004097;
   vertical-align: middle;
 }
 
 .aboutLeasebackafter .aboutLeasebackItemBottomTextMiddle {
-  color: #004096;
+  color: #004097;
   font-size: 2.3125rem;
   font-size: 2.875rem;
   font-weight: 600;
@@ -7455,7 +7455,7 @@ body.leaseback .sectionBox {
 
 .leaseback .leasebackPicture .leasebackPictureTitle {
   width: 500px;
-  background: #004096;
+  background: #004097;
   padding: 5px 0;
   border-radius: 20px;
   text-align: center;
@@ -7477,7 +7477,7 @@ body.leaseback .sectionBox {
   content: "";
   border-width: 20px 20px 0 20px;
   border-style: solid;
-  border-color: #004096 transparent transparent transparent;
+  border-color: #004097 transparent transparent transparent;
   width: 0;
   height: 0;
   position: absolute;
@@ -7522,7 +7522,7 @@ body.leaseback .sectionBox {
 }
 
 .leaseback .leasebackMerit .pageHeader span, .leaseback .leasebackFlow .pageHeader span {
-  color: #004096;
+  color: #004097;
   font-size: 1.5em;
   margin-right: 10px;
 }
@@ -7936,7 +7936,7 @@ body.leaseback .sectionBox {
   /* line-height: 2em; */
   text-align: center;
   border-radius: 1em;
-  background: #004096;
+  background: #004097;
   font-weight: 600;
   position: absolute;
   top: 0;
@@ -7971,7 +7971,7 @@ body.leaseback .sectionBox {
   font-family: 'Material Icons';
   content: "expand_more";
   position: absolute;
-  color: #004096;
+  color: #004097;
   bottom: -64px;
   font-size: 1.5em;
   font-weight: normal;
@@ -8098,7 +8098,7 @@ body.leaseback .sectionBox {
     margin-right: 5%;
     padding-left: 5%;
     padding-right: 5%;
-    border: 3px solid #004096;
+    border: 3px solid #004097;
     border-radius: 15px;
     padding: 15px 0;
     text-align: center;
@@ -8121,7 +8121,7 @@ body.leaseback .sectionBox {
   .jumpLink .jumpLinkTriggerSp:before {
     top: 24px;
     right: 24px;
-    border-bottom: 1px solid #004096;
+    border-bottom: 1px solid #004097;
   }
 }
 
@@ -8129,7 +8129,7 @@ body.leaseback .sectionBox {
   .jumpLink .jumpLinkTriggerSp::after {
     top: 28px;
     right: 28px;
-    border-right: 1px solid #004096;
+    border-right: 1px solid #004097;
   }
 }
 
@@ -8137,9 +8137,9 @@ body.leaseback .sectionBox {
   .jumpLink ul {
     display: block;
     border-radius: 0 0 15px 15px;
-    border-right: 3px solid #004096;
-    border-left: 3px solid #004096;
-    border-bottom: 3px solid #004096;
+    border-right: 3px solid #004097;
+    border-left: 3px solid #004097;
+    border-bottom: 3px solid #004097;
     border-top: none;
     padding: 0;
     width: 90%;
@@ -8201,7 +8201,7 @@ body.leaseback .sectionBox {
             transform: translate(100%, -50%);
   }
   .jumpLink ul li a::before {
-    border-color: transparent transparent transparent #004096;
+    border-color: transparent transparent transparent #004097;
     right: 31px;
   }
 }
@@ -8259,7 +8259,7 @@ body.leaseback .sectionBox {
 }
 
 .startForm .startFormItem {
-  background: #004096;
+  background: #004097;
   color: #fff;
   padding: 40px;
   position: relative;
@@ -8281,7 +8281,7 @@ body.leaseback .sectionBox {
   margin: auto;
   width: 0;
   height: 0;
-  border-color: #004096 transparent transparent;
+  border-color: #004097 transparent transparent;
   border-style: solid;
   border-width: 20px 18px 0px 18px;
 }
@@ -8590,9 +8590,9 @@ body.leaseback .sectionBox {
 .reversemortgageComparison .reversemortgageComparisonTable .tableHeaderTitle.two {
   width: 300px;
   background: #EEF5FF;
-  border-top: 3px solid #004096;
-  border-left: 3px solid #004096;
-  border-right: 3px solid #004096;
+  border-top: 3px solid #004097;
+  border-left: 3px solid #004097;
+  border-right: 3px solid #004097;
 }
 
 .reversemortgageComparison .reversemortgageComparisonTable .tableHeaderTitle.three {
@@ -8620,7 +8620,7 @@ body.leaseback .sectionBox {
 }
 
 .reversemortgageComparison .reversemortgageComparisonTable .tableContents.end .tableContentsDetailLeft {
-  border-bottom: 3px solid #004096;
+  border-bottom: 3px solid #004097;
 }
 
 .reversemortgageComparison .reversemortgageComparisonTable .sptitle {
@@ -8688,8 +8688,8 @@ body.leaseback .sectionBox {
 .reversemortgageComparison .reversemortgageComparisonTable .tableContentsDetailLeft {
   width: 300px;
   padding: 15px;
-  border-left: 3px solid #004096;
-  border-right: 3px solid #004096;
+  border-left: 3px solid #004097;
+  border-right: 3px solid #004097;
   border-bottom: 1px solid #DEDEDE;
   font-size: 1.1rem;
   font-weight: 700;
@@ -8706,8 +8706,8 @@ body.leaseback .sectionBox {
             justify-content: space-between;
     width: 100%;
     padding: 0;
-    border-bottom: 3px solid #004096;
-    border-top: 3px solid #004096;
+    border-bottom: 3px solid #004097;
+    border-top: 3px solid #004097;
   }
 }
 
@@ -8831,7 +8831,7 @@ body.leaseback .sectionBox {
 }
 
 .topSellTitle .topSellTextTop .blueStrong {
-  color: #004096;
+  color: #004097;
   font-size: 3.9375rem;
   margin-left: .2rem;
   margin-right: .2rem;
@@ -8940,7 +8940,7 @@ body.leaseback .sectionBox {
 
 .topSellTitle .topSellTextBottomRight {
   font-size: 7.75rem;
-  color: #004096;
+  color: #004097;
 }
 
 @media (max-width: 767px) {
